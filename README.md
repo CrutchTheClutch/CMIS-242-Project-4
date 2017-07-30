@@ -7,6 +7,6 @@ This program will Add, Delete, Update, and Find Student Records in a Database.
 ###### This project was assigned while attending University of Maryland University College (UMUC)
 ---
 
-><h1>Introductory Programming</h1>
-><h2>CMIS 141</h2>
-><p>A study of structured and object-oriented programming using the Java language. The goal is to design, implement, test, debug, and document Java programs, using appropriate development tools. Projects require use of algorithms, simple data structures, and object-oriented concepts.</p>
+><h1>Intermediate Programming</h1>
+><h2>CMIS 242</h2>
+><p>Further study of the Java programming language. The objective is to design, implement, test, debug, and document Java programs, using appropriate development tools. Topics include object-oriented design, event-driven programming, exceptions, recursion, arrays, and data structures.</p>
